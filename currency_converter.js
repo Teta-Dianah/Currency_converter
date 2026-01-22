@@ -6,8 +6,9 @@ const exchangeRates = {
   JPY: 113.5,
   RUB: 74.36,
   GBP: 0.75,
-  AUD: 1.52,
-  RWF: 1320.00
+  RWF: 9.86,
+  NRA: 1200,
+  SHL: 2900
 };
 
 function showcurrencies() {
